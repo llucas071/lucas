@@ -1,0 +1,28 @@
+<!DOCTYPE html> <!-- dit is voor eht document type-->
+<html>
+    <head>
+        <title>Verbindingen: kabels/interfaces</title>
+        <link rel="stylesheet" href="opmaak.css"> 
+    </head>
+    <header>
+      <div class="navbar">
+          <a href="index.html">Home</a>
+          <div class="dropdown">
+            <button class="dropbtn">Dropdown 
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+              <a href="computer onderdelen.html">computeronderdelen</a>
+              <a href="spelletje.html">spelletje</a>
+              <a href="bronnen.html">bronnen</a>
+              <a href="binairstelsel.html">binairstelsel</a>
+          <a href="kleurmodellen.html">kleurmodellen</a>
+          <a href="interface.html">Verbindingen</a>
+            </div>
+          </div> 
+        </div>
+  </header>
+        <main>
+            
+         
+            <h1  style="color: rgb(0, 0, 0)
